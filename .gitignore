@@ -1,0 +1,6 @@
+node_modules
+.env
+*.log
+user_settings.json
+free_mode.json
+users_6lottery.json
